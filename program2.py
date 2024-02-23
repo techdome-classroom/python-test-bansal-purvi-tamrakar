@@ -12,5 +12,5 @@ class Solution(object):
     ans=0
 
 for i in range(len(s)):
-    if    
+    if --i    
         pass
