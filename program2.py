@@ -12,5 +12,5 @@ class Solution(object):
     ans=0
 
 for i in range(len(s)):
-    if i<len(s)-1 and m[s[i]]<m[m[s]]    
+    if i<len(s)-1 and m[s[i]]<m[s[]]    
         pass
