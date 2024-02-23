@@ -16,4 +16,5 @@ for i in range(len(s)):
         and-=m[s[i]]    
         else:
             ans +=m[s[i]]
-        pass
+            return ans
+        
