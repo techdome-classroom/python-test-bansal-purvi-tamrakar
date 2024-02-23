@@ -5,7 +5,7 @@ class Solution(object):
             dict={'(':')','[':']','{':'}'}
             stack=[]
             for i in s:
-
+            if 
         pass
     
 
