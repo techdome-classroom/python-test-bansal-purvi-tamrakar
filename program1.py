@@ -3,7 +3,8 @@ class Solution(object):
         if len(s)%2!=0:
             return False
             dict={'(':')','[':']','{':'}'}
-        
+            stach=[]
+            for i in        
         pass
     
 
