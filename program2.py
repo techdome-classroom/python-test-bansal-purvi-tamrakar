@@ -11,5 +11,5 @@ class Solution(object):
         }
     ans=0
 
-for i in range(len)    
+for i in range(len(s))    
         pass
