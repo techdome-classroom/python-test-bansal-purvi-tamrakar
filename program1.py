@@ -4,7 +4,7 @@ class Solution(object):
             return False
             dict={'(':')','[':']','{':'}'}
             stack=[]
-            for iin s:
+            for i in s:
 
         pass
     
