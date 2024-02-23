@@ -3,9 +3,9 @@ class Solution(object):
         if len(s)%2!=0:
             return False
             dict={'(':')','[':']','{':'}'}
-            stach=[]
+            stack=[]
             for iin s:
-                        
+
         pass
     
 
