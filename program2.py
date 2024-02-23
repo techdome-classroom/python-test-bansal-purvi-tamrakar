@@ -7,6 +7,7 @@ class Solution(object):
         'L':1,
         'C':1,
         'D':1,
+        'M':1,
         }
     
     
