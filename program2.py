@@ -10,5 +10,6 @@ class Solution(object):
         'M':1,
         }
     ans=0
-    
+
+for    
         pass
