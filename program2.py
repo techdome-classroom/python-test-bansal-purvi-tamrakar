@@ -9,6 +9,6 @@ class Solution(object):
         'D':1,
         'M':1,
         }
-    
+    ans=0
     
         pass
